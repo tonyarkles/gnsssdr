@@ -1,0 +1,8 @@
+# Introduction #
+
+OSGPS software is an open-source gps receiver. It was used as a base for this project. But main things were rewritten (acquisition, confirmation, tracking) in a different way.
+
+
+# Details #
+
+Some details about application and usage of this project can be found on the following page: http://gnss-sdr.ru/index.php?itemid=38

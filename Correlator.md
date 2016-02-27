@@ -1,0 +1,8 @@
+# Introduction #
+
+Namuru based correlator rewritten in vhdl. Tested on Spartan3e500 FPGA. Working but not finished version.
+
+
+# Details #
+
+Some details about application and usage of this correlator can be found on the following page: http://gnss-sdr.ru/index.php?itemid=38

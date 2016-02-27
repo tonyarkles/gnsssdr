@@ -1,0 +1,8 @@
+# Introduction #
+
+GPS-SDR is a famous real-time receiver. It was developed for use with the following hardware: SiGe GN3S, USRP. The aim of this project is to adopt this software for use with gnss-sdr front-end.
+
+
+# Details #
+
+Some details about this project can be found on the following page: http://gnss-sdr.ru/index.php?itemid=11
